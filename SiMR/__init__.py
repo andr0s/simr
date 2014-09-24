@@ -6,6 +6,7 @@
 #5) use GZIP output in reducer or simple TXT
 #6) better tests
 #7) better streaming-compatible output format
+#8) pip package
 
 import sys
 import itertools
