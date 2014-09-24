@@ -1,3 +1,17 @@
+#
+# License:
+#   This Source Code Form is subject to the terms of the Mozilla Public
+#   License, v. 2.0. If a copy of the MPL was not distributed with this file,
+#   You can obtain one at http://mozilla.org/MPL/2.0/.
+
+# Authors:
+#   Copyright (c) 2014, Andrey Nozhkin <no.andrey [AT] gmail [D0T] com>
+
+# Original repository:
+#   https://github.com/andr0s/simr
+#
+
+
 #TODO:
 #) split reducer and final writer stream output
 #2) create a special cleanup method
