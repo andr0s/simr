@@ -1,0 +1,5 @@
+{"words": ["banana", "apple", "orange"], "numbers": [1, 2, 3]}
+{"words": ["ocean", "palm", "sky"], "numbers": [1, 3, 5]}
+{"words": ["snow", "water", "vapour"], "numbers": [11, 12, 13, 14]}
+{"words": ["banana", "bank", "business"], "numbers": [101, 102, 103]}
+{"words": ["snow", "style"], "numbers": [12, 13, 14]}
