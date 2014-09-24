@@ -12,16 +12,6 @@
 #
 
 
-#TODO:
-#) split reducer and final writer stream output
-#2) create a special cleanup method
-#3) compressed sort
-#4) change separator
-#5) use GZIP output in reducer or simple TXT
-#6) better tests
-#7) better streaming-compatible output format
-#8) pip package
-
 import sys
 import itertools
 import os

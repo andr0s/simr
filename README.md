@@ -39,3 +39,12 @@ Just an example:
 License? MPL 2.0.
 
 Future plans? Lots of them! Feel free to fork the code and send push requests back =)
+
+    TODO:
+    - split the reducer and the final writer streaming output
+    - create a special cleanup method
+    - compressed sort
+    - change the separator
+    - better tests
+    - a better streaming-compatible output format
+    - pip package
